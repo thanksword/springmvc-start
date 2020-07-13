@@ -24,7 +24,7 @@
 		<!--Web-->
 		<servlet.version>2.5</servlet.version>
 		<!--Json-->
-		<jackson.version>2.8.1</jackson.version>
+		<jackson.version>2.9.10.4</jackson.version>
 	</properties>
 
 	<dependencies>
